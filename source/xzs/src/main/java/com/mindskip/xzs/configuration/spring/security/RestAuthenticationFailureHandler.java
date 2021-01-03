@@ -10,10 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * 账号验证异常
- * @author 武汉思维跳跃科技有限公司
- */
+
 @Component
 public class RestAuthenticationFailureHandler extends SimpleUrlAuthenticationFailureHandler {
 

@@ -10,10 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * 未登录
- * @author 武汉思维跳跃科技有限公司
- */
+
 @Component
 public final class LoginAuthenticationEntryPoint extends LoginUrlAuthenticationEntryPoint {
 

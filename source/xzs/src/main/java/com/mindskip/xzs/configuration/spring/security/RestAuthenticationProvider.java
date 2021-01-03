@@ -23,8 +23,6 @@ import java.util.ArrayList;
 
 /**
  * 登录用户名密码验证
- *
- * @author :  武汉思维跳跃科技有限公司
  * Description :  身份验证
  */
 
