@@ -26,6 +26,7 @@
       </el-menu>
       <div>
         <a href="/"><img src="@/assets/logo.png" height="56"/></a>
+        <iframe width="250" height="90" frameborder="0" scrolling="no" hspace="0" src="https://i.tianqi.com/?c=code&a=getcode&id=7&py=changsha&icon=1"></iframe>
       </div>
     </el-header>
     <el-main class="student-main">
